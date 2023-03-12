@@ -17,11 +17,11 @@
             </h1>
             <nav>
                 <ul>
-                    <li><a href="#">Servicios</a></li>
-                    <li><a href="#">Nosotros</a></li>
-                    <li><a href="#">Doctores</a></li>
-                    <li><a href="#">Locales</a></li>
-                    <li><a href="#">Contactos</a></li>
+                    <li><a href="#Servicios">Servicios</a></li>
+                    <li><a href="#Nosotros">Nosotros</a></li>
+                    <li><a href="#Doctores">Doctores</a></li>
+                    <li><a href="#Locales">Locales</a></li>
+                    <li><a href="#Contactos">Contactos</a></li>
                 </ul>
             </nav>
         </div>
@@ -30,13 +30,15 @@
         <div class="principal">
             <h2 class="clinica-veterinaria">Clinica Veterinaria</h2>
             <div class="datos-principal">
-                <p class="texto-1">Tus mascotas son importates para Nosotros</p>
-                <p class="texto-2">24 horas disponibles, en caso de emergencia</br>+593-99-368-3748 </p>
-                <button class="botones"> Iniciemos</button>
+                <div class="parte1">
+                    <p class="texto-1">Tus mascotas son importates para Nosotros</p>
+                    <p class="texto-2">24 horas disponibles, en caso de emergencia</br>+593-99-368-3748 </p>
+                    <button class="botones"> Iniciemos</button>
+                </div>
                 <img class="imagen-1"src="./img/Screenshot 2023-02-20 003846.jpg">
             </div>
         </div>
-        <div class="servicios">
+        <div class="servicios" id="Servicios">
             <h2 class="servicios-titulo">Servicios</h2>
             <p class="texto-2">Ofrecemos una amplia gama de servicios que incluye lo siguiente a continuación</p>
             <ul class="servicios-tarjetas">
@@ -58,15 +60,17 @@
             </ul>
         </div>
         <div class="contactanos">
-            <img class="imagen-3" src="img/contactanos.jpg"> 
-            <p class="contactanos-texto-1"> Los mejores veterinarios para tu mascota</p>
-            <p class="contactanos-texto-2"> Posemos los mejores veterinarios del pais y estamos dispuestos ayudar a tu mascota, para que se encuentre de mejor manera. </p>
-            <button class="boton-contactanos"> Contactanos</button>
+            <img class="imagen-3" src="img/contactanos.jpg">
+            <div class="parte2">
+                <p class="contactanos-texto-1"> Los mejores veterinarios para tu mascota</p>
+                <p class="contactanos-texto-2"> Posemos los mejores veterinarios del pais y estamos dispuestos ayudar a tu mascota, para que se encuentre de mejor manera. </p>
+                <button class="boton-contactanos"><a href="#Contactos">Contactanos</a></button>
+            </div>
         </div>
-        <div class="nosotros">
+        <div class="nosotros" id="Nosotros">
             <h2 class="servicios-titulo">Nosotros</h2>
         </div>
-        <div class="veterinarios">
+        <div class="veterinarios" id="Doctores">
             <h2 class="servicios-titulo">Veterinarios</h2>
             <ul class="veterinarios-tarjetas">
                 <li class ="vt1">
@@ -92,17 +96,17 @@
                 <button class="boton-registrarse"> Registrarse</button>
             </div>
         </div>
-        <div class="locales">
+        <div class="locales" id="Locales">
             <h2 class="servicios-titulo">Locales</h2>
             <p class="locales-texto-2"> Ofrecemos una amplia gama de locales que incluye lo siguiente a continuación </p>
             <ul class="locales-tarjetas">
                 <li class="lt1">
                     <p class="locales-titulo-p">John F. Kennedy N71-486 y Mariscal Sucre </p>
-                    <img class="imagen-locales" src="./img/mapa1.jpg" width="105%">
+                    <img class="imagen-locales" src="./img/mapa1.jpg" width="100%">
                 </li class="lt2">
                 <li>
                     <p class="locales-titulo-p">París 1022 y Tomás de Berlanga</p>
-                    <img class="imagen-locales" src="./img/mapa2.jpg" width="105%">
+                    <img class="imagen-locales" src="./img/mapa2.jpg" width="100%">
                 </li>
                 <li class="lt3">
                     <p class="locales-titulo-p">Pedregal Oe5 - 36 y Hernández de Girón</p>
@@ -110,7 +114,7 @@
                 </li>
             </ul>
         </div>
-        <div class="contactos">
+        <div class="contactos" id="Contactos">
             <h2 class="servicios-titulo">Contactos</h2>
             <ul class="contactos-tarjetas">
                 <li class="ct1">

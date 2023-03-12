@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Plus+Jakarta+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    border-color: aliceblue;
+}
+
+header {
+    background-color: #D5E5F5;
+}
+
+.cabecera {
+    display: flex;
+    align-items: center;
+    padding: 1% 0% 2%;
+    /*background-color: #D5E5F5;*/
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-size: 120%;
+    color: #00214D;
+}
+
+nav li {
+    display: inline;
+}
+
+h1 {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    color: #3781E3;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.venta_alimento{
+    display:flex;
+    flex-wrap: wrap;
+    background-color: #D5E5F5;
+    justify-content: space-around;
+}
+
+.venta_alimento img{
+    border-radius: 30px;
+    padding: 40px 0px;
+}
+
+.datos_alimento{
+    font-family: 'Plus Jakarta Sans';
+    line-height: 250%;
+    color: #537198;
+    align-self: center;
+    width: 40%;
+    font-size: 110%;
+    flex-basis: max-content;
+}
+
+.datos_alimento h3{
+    text-align: center;  
+}
+
+.descuento{
+    text-decoration: line-through;
+    color: rgb(205, 201, 201);
+}
+
+.precios{
+    /*border-style: dotted;*/
+    display: flex;
+    justify-content: space-evenly;
+}
+/*
+.opciones{
+    display:flex;
+    gap:1px;
+}
+*/
+
+button{
+    padding: 10px;
+    box-sizing:border-box;
+    border-radius: 10px;
+    /*border-color: aliceblue;*/
+    cursor: pointer;
+    margin: 0px 20px;
+}
+
+select{
+    width: 50%;
+    margin-left: 20px;
+}
+.boton-comprar{
+    padding: 20px 13px;
+    background: #3781E3;
+    border-radius: 20px;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    border-color: #3781E3;
+    border-width: 2px;
+    border-style: solid;
+    margin-right: 20px;
+    justify-self: end;
+    margin-top: 40px;
+}
+
+button:hover{
+    border-color: #3781E3;
+
+}
+
+button:active{
+    background-color: #031225;
+    color: white;
+}
+
