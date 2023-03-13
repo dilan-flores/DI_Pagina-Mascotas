@@ -12,6 +12,10 @@
     border-color: aliceblue;
 }
 
+[href="venta_alimento.html"]{
+    color: #3781E3;
+}
+
 header {
     background-color: #D5E5F5;
 }
@@ -42,7 +46,7 @@ h1 {
     font-style: normal;
     font-weight: 400;
     letter-spacing: 0.1em;
-    color: #3781E3;
+    /*color: #3781E3;*/
 }
 
 nav ul {
@@ -118,7 +122,8 @@ main [href]{
 label:hover{
     /*background-color: #031225;
     color: white;*/
-    border: #3781E3 2px solid;
-    background-color: white;
+    border: darkcyan 2px solid;
+    background-color: darkcyan;
+    color:white;
 }
 
