@@ -349,6 +349,10 @@ nav ul {
     margin-top: 26px;*/
 }
 
+.boton-contactanos [href="#Contactos"]{
+    color:inherit;
+}
+
 /* Todo lo referente a nosotros se encuentra en un div */
 .nosotros {
     background-color: #E9F4FF;
