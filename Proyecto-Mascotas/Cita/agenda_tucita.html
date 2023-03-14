@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda tu cita - PatitasDog</title>
+    <link rel="stylesheet" href="./style_agenda_tucita.css">
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <div class="cabecera">
+            <h1>
+                <a href="../index.html">Patitas Dog</a>
+            </h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Citas</a></li>
+                    <li><a href="../medicamento.html">Medicamentos</a></li>
+                    <li><a href="../alimento.html">Alimentos</a></li>
+                    <li><a href="#">Recomendaciones</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="agendar_cita">
+            <!-- <img src="img_venta_alimento/va3.png" width ="40%"> -->
+            <div class="datos_cita">
+                <h3>AGENDA TU CITA </h3>
+                <div class="subtitulo">
+                    <h3>Seleccione la fecha y la hora </h3>
+                </div>
+                <div class="calendario">
+                    <form action="">
+                        <input type="datetime-local" name="dia" class="calendario1" />
+                    </form>
+                </div>
+                <div class="subtitulos">
+                    <h3 class="subtitulo1"> Ingresa alguna nota : </h3>
+                </div>
+                <textarea name="textarea" rows="10" cols="50" class="textarea">Nota :</textarea>
+                <button onclick="mostrar()" class="boton-cita">Confirmar Cita</button>
+            </div>
+        </section>
+    </main>
+
+    <script src="app_agenda_tucita.js"></script>
+</body>
+
+</html>

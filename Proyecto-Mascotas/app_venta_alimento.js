@@ -84,7 +84,6 @@ function mostrar(){
             icon:'error'
         })
     }
-    
 }
 /*
 function cambiarColor(color){

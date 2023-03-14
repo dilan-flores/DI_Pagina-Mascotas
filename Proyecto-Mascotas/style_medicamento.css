@@ -11,6 +11,7 @@
     text-decoration: none;
 }
 
+
 [href="index.html"]{
     color: #3781E3;
 }
@@ -23,7 +24,6 @@ header {
     display: flex;
     align-items: center;
     padding: 1% 0% 2%;
-    /*background-color: #D5E5F5;*/
     justify-content: space-around;
     flex-wrap: wrap;
 }
@@ -45,7 +45,6 @@ h1 {
     font-style: normal;
     font-weight: 400;
     letter-spacing: 0.1em;
-    /*color: #3781E3;*/
 }
 
 nav ul {
@@ -57,7 +56,6 @@ nav ul {
 }
 
 .titulo{
-    /*color: #3781E3;*/
     line-height: 100%;
     letter-spacing: 0.085em;
     text-align: center;
@@ -73,28 +71,24 @@ nav ul {
     margin-top: 40px;
 }
 
-.tarjeta-de-alimento{
-    /*display:block;*/
+.tarjeta-de-medicamento{
     flex-wrap: wrap;
-    /*flex-direction: column;*/
     width: 330px;
-    height: 500px;
-    /*background: rgb(62, 78, 93);*/
+    height: 600px;
     padding: 10px;
     box-sizing: border-box;
     margin: 10px;
     justify-content: center;
-    /*border: 1px solid hotpink;*/
     text-align: center;
     align-items: center;
     font-size: 20px;
 }
 
-.tarjeta-de-alimento:hover {
+.tarjeta-de-medicamento:hover {
     cursor: pointer;
 }
 
-.tarjeta-de-alimento img{
+.tarjeta-de-medicamento img{
     width: 250px;
     border-radius: 20px;
     margin: 40px 0px 20px;
@@ -104,11 +98,7 @@ nav ul {
 p{
     margin-bottom: 20px;
 }
-/*
-input{
-    display: none;
-}
-*/
+
 main{
     background-color: #D5E5F5;
     color: #3781E3;
@@ -118,12 +108,8 @@ main [href]{
     color:inherit;
 }
 
-
 label:hover{
-    /*background-color: #031225;
-    color: white;*/
     border: darkcyan 2px solid;
     background-color: darkcyan;
     color:white;
 }
-
