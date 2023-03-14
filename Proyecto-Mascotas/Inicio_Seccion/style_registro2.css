@@ -35,6 +35,11 @@ nav a {
 nav li {
     display: inline;
 }
+
+[href="../index.html"]{
+    color: #3781E3;
+}
+
 h1 {
     font-family: 'Pacifico';
     font-style: normal;
@@ -50,10 +55,101 @@ nav ul {
     gap: 40px;
     flex-wrap: wrap;
 }
-button:hover{
-    border-color: #3781E3;
 
+main{
+    display:flex;
+    flex-wrap: wrap;
+    background-color: #D5E5F5;
+    gap: 10px;
+    justify-content: space-evenly;
+    padding-top: 40px;
 }
+
+.targeta{
+    display:flex;
+    flex-wrap: wrap;
+    background-color: #D5E5F5;
+    gap: 10px;
+    justify-content: space-evenly;
+    padding-top: 40px;
+    background-color: #537198;
+    border-radius: 10px;
+    padding: 20px 30px;
+    width: min(180px);
+    width: max(600px);
+    height: auto;
+    align-items: center;
+}
+
+.registrar-usuario{
+    /*position: absolute;*/
+    /*width: 500px;
+    height: 50px;
+    left: 610px;
+    top: 250px;*/
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 150%;
+    color: #00214D;
+}
+
+.suscribete{
+    display:inline-grid;
+}
+
+button {
+    /*position: absolute;*/
+    /*width: 500px;
+    height: 83px;*/
+    /*left: 430px;
+    top: 350px;*/
+    background: #FFFFFF;
+    border-radius: 10px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 150%;
+    color: rgba(0, 33, 77, 0.5); 
+    margin: 20px;
+    padding: 5px 20px;
+}
+
+.Crear-cuenta{
+    padding: 10px;
+    box-sizing:border-box;
+    border-radius: 10px;
+    /*border-color: aliceblue;*/
+    cursor: pointer;
+    margin: 0px 20px;
+    background-color: gainsboro;
+    padding: 20px 13px;
+    background: #26BC7A;
+    border-color: #26BC7A;
+    border-radius: 20px;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    border-width: 2px;
+    border-style: solid;
+    /*margin-right: 20px;*/
+    /*justify-self: end;*/
+    margin: 30px 0px;
+}
+
+.Crear-cuenta:hover{
+    background-color: darkcyan;
+    color: white;
+    border: darkcyan 2px solid;
+}
+
+
+/*
+
 h2 {
 position: absolute;
 width: 417px;
@@ -66,10 +162,6 @@ font-style: normal;
 font-weight: 700;
 font-size: 70px;
 line-height: 150%;
-/* or 105px */
-
-
-/* Text */
 
 color: #00214D;
 }
@@ -87,9 +179,6 @@ color: #00214D;
 }
 
 .registrar-usuario{
-    /* ¿Olvidaste tú contraseña? */
-
-
     position: absolute;
     width: 500px;
     height: 50px;
@@ -101,10 +190,7 @@ font-style: normal;
 font-weight: 400;
 font-size: 29px;
 line-height: 150%;
-/* identical to box height, or 36px */
 
-
-/* Text */
 
 color: #00214D;
 }
@@ -125,8 +211,6 @@ font-style: normal;
 font-weight: 600;
 font-size: 24px;
 line-height: 150%;
-/* identical to box height, or 36px */
-
 
 color: rgba(0, 33, 77, 0.5); 
 }
@@ -147,8 +231,6 @@ font-style: normal;
 font-weight: 600;
 font-size: 24px;
 line-height: 150%;
-/* identical to box height, or 36px */
-
 
 color: rgba(0, 33, 77, 0.5); 
 }
@@ -169,8 +251,6 @@ font-style: normal;
 font-weight: 600;
 font-size: 24px;
 line-height: 150%;
-/* identical to box height, or 36px */
-
 
 color: rgba(0, 33, 77, 0.5);
 }
@@ -191,8 +271,6 @@ font-style: normal;
 font-weight: 600;
 font-size: 24px;
 line-height: 150%;
-/* identical to box height, or 36px */
-
 
 color: rgba(0, 33, 77, 0.5);
 }
@@ -217,17 +295,14 @@ font-style: normal;
 font-weight: 700;
 font-size: 15px;
 line-height: 150%;
-/* identical to box height, or 36px */
 
 letter-spacing: 0.1em;
 
 color: #FFFFFF;
 
-
-/* Inside auto layout */
-
 flex: none;
 order: 0;
 flex-grow: 0;
 }
+*/
 

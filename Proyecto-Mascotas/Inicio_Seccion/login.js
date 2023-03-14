@@ -1,6 +1,6 @@
 function mostrar(){
     swal({
-        title:'Bienvenido',
+        title:'Registro exitoso',
         icon:'success'
     })
 }

@@ -57,7 +57,7 @@ nav ul {
 }
 
 .principal{
-    width: min(200px);
+    width: min(180px);
     width: max(600px);
     flex-wrap: wrap;
     place-content: center;
@@ -163,7 +163,7 @@ button:hover{
     border: darkcyan 2px solid;
 }
 
-[href="../medicamento.html"]{
+main [href]{
     color:inherit;
 }
 
