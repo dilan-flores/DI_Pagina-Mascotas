@@ -134,6 +134,10 @@ nav ul {
     align-self: center;*/
 }
 
+[href="./Inicio_Seccion/login.html"]{
+    color: inherit;
+}
+
 .imagen-1 {
     /*width: 395px;
     height: 292px;*/

@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Plus+Jakarta+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    border-color: aliceblue;
+}
+
+header {
+    background-color: #D5E5F5;
+}
+
+.cabecera {
+    display: flex;
+    align-items: center;
+    padding: 1% 0% 2%;
+    /*background-color: #D5E5F5;*/
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-size: 120%;
+    color: #00214D;
+}
+
+nav li {
+    display: inline;
+}
+h1 {
+    font-family: 'Pacifico';
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    color: #3781E3;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+button:hover{
+    border-color: #3781E3;
+
+}
+h2 {
+position: absolute;
+width: 417px;
+height: 111px;
+left: 167px;
+top: 328px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 150%;
+/* or 105px */
+
+
+/* Text */
+
+color: #00214D;
+}
+
+.imagen-3 {
+    display: flex;
+    position: absolute;
+    width: 642px;
+    height: 678px;
+    left: 350px;
+    top: 206px;
+    
+    background: #CADFF8;
+    border-radius: 20px;
+}
+
+.registrar-usuario{
+    /* ¿Olvidaste tú contraseña? */
+
+
+    position: absolute;
+    width: 500px;
+    height: 50px;
+    left: 610px;
+    top: 250px;
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+/* Text */
+
+color: #00214D;
+}
+.boton-nombre {
+    position: absolute;
+    width: 500px;
+    height: 83px;
+    left: 430px;
+    top: 350px;
+    
+    background: #FFFFFF;
+    border-radius: 20px;
+    position: absolute;
+
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: rgba(0, 33, 77, 0.5); 
+}
+.correo-electronico{
+    position: absolute;
+    width: 500px;
+    height: 83px;
+    left: 430px;
+    top: 480px;
+    
+    background: #FFFFFF;
+    border-radius: 20px;
+    position: absolute;
+
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: rgba(0, 33, 77, 0.5); 
+}
+.inicio-contraseña{
+    position: absolute;
+    width: 500px;
+    height: 83px;
+    left: 430px;
+    top: 600px;
+    
+    background: #FFFFFF;
+    border-radius: 20px;
+    position: absolute;
+
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: rgba(0, 33, 77, 0.5);
+}
+.inicio-confirmar{
+    position: absolute;
+    width: 500px;
+    height: 83px;
+    left: 430px;
+    top: 720px;
+    
+    background: #FFFFFF;
+    border-radius: 20px;
+    position: absolute;
+
+
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+
+color: rgba(0, 33, 77, 0.5);
+}
+.Crear-cuenta3{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+gap: 10px;
+
+position: absolute;
+width: 300px;
+    height: 50px;
+    left: 530px;
+top: 830px;
+
+background: #26BC7A;
+border-radius: 20px;
+font-family: 'Plus Jakarta Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 150%;
+/* identical to box height, or 36px */
+
+letter-spacing: 0.1em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
