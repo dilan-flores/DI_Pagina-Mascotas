@@ -99,6 +99,10 @@ main{
     display:inline-grid;
 }
 
+[href="./registro_proveedor.html"]{
+    color:inherit;
+}
+
 button {
     /*position: absolute;*/
     /*width: 500px;
@@ -115,6 +119,30 @@ button {
     color: rgba(0, 33, 77, 0.5); 
     margin: 20px;
     padding: 5px 20px;
+}
+
+.registrar_proveedor{
+    padding: 10px;
+    box-sizing:border-box;
+    border-radius: 10px;
+    /*border-color: aliceblue;*/
+    cursor: pointer;
+    margin: 0px 20px;
+    background-color: gainsboro;
+    padding: 20px 13px;
+    background: #3781E3;
+    border-radius: 20px;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    border-color: #3781E3;
+    border-width: 2px;
+    border-style: solid;
+    /*margin-right: 20px;*/
+    /*justify-self: end;*/
+    margin: 30px 0px;
 }
 
 .Crear-cuenta{

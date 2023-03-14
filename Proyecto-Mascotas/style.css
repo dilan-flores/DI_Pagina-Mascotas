@@ -315,6 +315,29 @@ nav ul {
     width: 100%;
 }
 
+input{
+    font-size: 30px;
+    width: 400px;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.buscar{
+    padding: 20px 13px;
+    background: #3781E3;
+    border-radius: 20px;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    border-color: #3781E3;
+    border-width: 2px;
+    border-style: solid;
+    margin: 70px;
+}
+
 /* Todo lo referente a veterinarios se encuentra en un div*/
 .veterinarios {
     background-color: #D5E5F5;
