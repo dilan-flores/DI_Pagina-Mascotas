@@ -56,14 +56,6 @@ nav ul {
     flex-wrap: wrap;
 }
 
-.principal{
-    width: min(180px);
-    width: max(600px);
-    flex-wrap: wrap;
-    place-content: center;
-    align-self: center;
-}
-
 main{
     display:flex;
     flex-wrap: wrap;
@@ -73,12 +65,20 @@ main{
     padding-top: 40px;
 }
 
+.principal{
+    width: min(100px);
+    width: max(600px);
+    flex-wrap: wrap;
+    place-content: center;
+    align-self: center;
+}
+
 .targeta{
     background-color: #537198;
     border-radius: 10px;
     padding: 20px 30px;
-    width: 400px;
-    height: 500px ;
+    width: auto;
+    height: auto;
     display:inline-grid;
 }
 

@@ -1,0 +1,1653 @@
+.citasmedicas-container {
+  min-height: 100vh;
+}
+.citasmedicas-citasmedicas {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: var(--dl-color-default-bg2);
+}
+.citasmedicas-group2189 {
+  top: 16px;
+  left: 0px;
+  width: 1440px;
+  height: 921.3255004882812px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-text {
+  top: 207.07046508789062px;
+  left: 103px;
+  color: var(--dl-color-default-text);
+  width: 564px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 700;
+  line-height: 150%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-rectangle54 {
+  top: 572.7919311523438px;
+  left: 817px;
+  width: 514px;
+  height: 212px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 6px;
+}
+.citasmedicas-text02 {
+  top: 586.1845703125px;
+  left: 839px;
+  color: rgba(0, 0, 0, 0.5);
+  width: 104px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-confirmyourappoitment-button {
+  top: 185px;
+  left: 839px;
+  width: 423px;
+  height: 79.32550048828125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 33, 77, 1);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.citasmedicas-confirmyourappoitment-button1 {
+  top: 842px;
+  left: 173px;
+  width: 423px;
+  height: 79.32550048828125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(0, 33, 77, 1);
+  border-radius: 10px;
+  cursor: pointer;
+}
+.citasmedicas-confirmyourappoitment-button:hover{
+  background-color: darkcyan;
+  color: white;
+  border: darkcyan 2px solid;
+}
+
+.citasmedicas-confirmyourappoitment-button1:hover{
+  background-color: darkcyan;
+  color: white;
+  border: darkcyan 2px solid;
+}
+.citasmedicas-text04 {
+  top: 207px;
+  left: 932px;
+  color: rgba(255, 255, 255, 1);
+  width: 263px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-text06 {
+  top: 860px;
+  left: 262px;
+  color: rgba(255, 255, 255, 1);
+  width: 263px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-group132 {
+  top: 381px;
+  left: 102.88671875px;
+  width: 569.8103637695312px;
+  height: 357.3536071777344px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-line32 {
+  top: 48.345497788184446px;
+  left: -0.6612803047391509px;
+  width: 570px;
+  height: 0px;
+  position: absolute;
+}
+.citasmedicas-group16 {
+  top: 0.4523293663402228px;
+  left: 33.0830696345478px;
+  width: 504.75360107421875px;
+  height: 24.768329620361328px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-group {
+  top: 0px;
+  left: 0px;
+  width: 16.602556228637695px;
+  height: 24.66065216064453px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group01 {
+  top: 1.5129547667447696px;
+  left: 79.1199009992703px;
+  width: 22.46758270263672px;
+  height: 23.79913330078125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector01 {
+  top: 0px;
+  left: 0px;
+  width: 22px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group02 {
+  top: 2.6579521076457695px;
+  left: 162.84668924904494px;
+  width: 17.414628982543945px;
+  height: 23.79913330078125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector02 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group03 {
+  top: 3.6855745014956938px;
+  left: 238.0022903825438px;
+  width: 31.9418888092041px;
+  height: 23.79913330078125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector03 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group04 {
+  top: 4.883774430336018px;
+  left: 325.6081234979911px;
+  width: 17.414644241333008px;
+  height: 23.79913330078125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector04 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group05 {
+  top: 6.026303355089794px;
+  left: 409.15450871704377px;
+  width: 15.068583488464355px;
+  height: 23.79913330078125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 15px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group06 {
+  top: 6.7864317394581235px;
+  left: 488.3747554131854px;
+  width: 16.33185577392578px;
+  height: 24.66065216064453px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector06 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group07 {
+  top: 72.3570032633271px;
+  left: 196.09383991911739px;
+  width: 8.571966171264648px;
+  height: 23.79914093017578px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector07 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group08 {
+  top: 73.27463607816549px;
+  left: 271.06210003292733px;
+  width: 15.97094440460205px;
+  height: 24.014528274536133px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector08 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group09 {
+  top: 74.59595019369203px;
+  left: 351.92805561715033px;
+  width: 15.880716323852539px;
+  height: 24.122220993041992px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector09 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group10 {
+  top: 75.70164571660166px;
+  left: 432.7962884120111px;
+  width: 18.49737548828125px;
+  height: 23.691448211669922px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector10 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group11 {
+  top: 76.96566125152003px;
+  left: 517.3393660724387px;
+  width: 15.880744934082031px;
+  height: 24.122238159179688px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector11 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group12 {
+  top: 131.78790108496685px;
+  left: 29.33077957711498px;
+  width: 16.51232147216797px;
+  height: 24.552976608276367px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector12 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group13 {
+  top: 133.16805784235862px;
+  left: 106.63698499176053px;
+  width: 15.880709648132324px;
+  height: 23.79914093017578px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector13 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group14 {
+  top: 134.0084077573166px;
+  left: 183.83218751868912px;
+  width: 16.963491439819336px;
+  height: 24.552942276000977px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector14 {
+  top: 0px;
+  left: 0px;
+  width: 17px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group15 {
+  top: 134.76607828127385px;
+  left: 262.8675292762051px;
+  width: 16.422082901000977px;
+  height: 24.768346786499023px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector15 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group16 {
+  top: 136.03714683980525px;
+  left: 340.05819973331336px;
+  width: 29.234418869018555px;
+  height: 24.552976608276367px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector16 {
+  top: 0.32319405127509526px;
+  left: -0.004216895950833077px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector17 {
+  top: 0.16540483134110673px;
+  left: 12.089529291292024px;
+  width: 17px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group17 {
+  top: 137.5916426801382px;
+  left: 430.1117058987876px;
+  width: 19.760356903076172px;
+  height: 23.799156188964844px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector18 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector19 {
+  top: 0.15300564170433972px;
+  left: 11.187345148770305px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group18 {
+  top: 138.5900838380353px;
+  left: 510.98232104775127px;
+  width: 26.978683471679688px;
+  height: 24.014528274536133px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector20 {
+  top: 0.10776665945627428px;
+  left: -0.001473746984288482px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector21 {
+  top: 0.15052062670156374px;
+  left: 11.006709626758266px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group19 {
+  top: 194.0544771982602px;
+  left: 22.703398507218367px;
+  width: 26.70845603942871px;
+  height: 24.229896545410156px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector22 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector23 {
+  top: 0.25567460834668054px;
+  left: 10.825298350924697px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group20 {
+  top: 195.1404797120474px;
+  left: 102.11318234104499px;
+  width: 30.318038940429688px;
+  height: 23.799192428588867px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector24 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector25 {
+  top: 0.26931480973394173px;
+  left: 11.818056837279215px;
+  width: 18px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group21 {
+  top: 196.27156364810355px;
+  left: 184.81951187327854px;
+  width: 27.06937026977539px;
+  height: 24.33760643005371px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector26 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector27 {
+  top: 0.3683455826037516px;
+  left: 11.184454663831616px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group22 {
+  top: 197.05463000523855px;
+  left: 265.6929350064804px;
+  width: 28.5125732421875px;
+  height: 24.552942276000977px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector28 {
+  top: 0.3228427216236014px;
+  left: -0.004229024785217916px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector29 {
+  top: 0.16532100229665048px;
+  left: 12.08951613123179px;
+  width: 16px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group23 {
+  top: 198.48350101193296px;
+  left: 346.556870344619px;
+  width: 27.700990676879883px;
+  height: 23.799192428588867px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector30 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector31 {
+  top: 0.1604118952321869px;
+  left: 11.728879460532312px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group24 {
+  top: 199.26626576887315px;
+  left: 427.4305570259719px;
+  width: 28.78375244140625px;
+  height: 24.552942276000977px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector32 {
+  top: 0.3229906070434936px;
+  left: -0.004417010190991277px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector33 {
+  top: 0.16163142385892115px;
+  left: 11.819178460513172px;
+  width: 17px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group25 {
+  top: 200.18203718551422px;
+  left: 510.13978525201685px;
+  width: 27.971757888793945px;
+  height: 24.768312454223633px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector34 {
+  top: 0.5382790584967552px;
+  left: -0.007310279944817921px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector35 {
+  top: 0.1579988668270289px;
+  left: 11.548405093867245px;
+  width: 16px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group26 {
+  top: 255.69643068278572px;
+  left: 17.619918258313874px;
+  width: 35.00928497314453px;
+  height: 24.552959442138672px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector36 {
+  top: 0.10747746241634104px;
+  left: -0.0014697921129709357px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector37 {
+  top: 0.24429208247295264px;
+  left: 17.8636780540769px;
+  width: 17px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group27 {
+  top: 256.94779260292637px;
+  left: 101.26783876972218px;
+  width: 25.62567138671875px;
+  height: 24.014511108398438px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector38 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector39 {
+  top: 0.448506322018261px;
+  left: 17.049272702667565px;
+  width: 9px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group28 {
+  top: 257.97837290600455px;
+  left: 176.6226826060023px;
+  width: 32.84416580200195px;
+  height: 24.014511108398438px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector40 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector41 {
+  top: 0.23062337609974293px;
+  left: 16.87148744679922px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group29 {
+  top: 259.1094566334109px;
+  left: 259.3289968808738px;
+  width: 32.57379913330078px;
+  height: 24.337507247924805px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector42 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector43 {
+  top: 0.44349702891281595px;
+  left: 16.68860688161658px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group30 {
+  top: 260.21543167914433px;
+  left: 340.198141466087px;
+  width: 36.18278503417969px;
+  height: 24.014511108398438px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector44 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector45 {
+  top: 0.4558449763331964px;
+  left: 17.5905933420932px;
+  width: 19px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group31 {
+  top: 261.37137764935574px;
+  left: 424.7425749341113px;
+  width: 32.934120178222656px;
+  height: 24.445384979248047px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector46 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector47 {
+  top: 0.556323758357621px;
+  left: 17.047359530098106px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group32 {
+  top: 262.39493541761794px;
+  left: 507.4509395524917px;
+  width: 34.28761291503906px;
+  height: 24.552959442138672px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector48 {
+  top: 0.10761317694982608px;
+  left: -0.001471648056963204px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector49 {
+  top: 0.24439218811426144px;
+  left: 17.863775876497243px;
+  width: 16px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-group33 {
+  top: 317.622492021576px;
+  left: 17.584233407861007px;
+  width: 33.47579574584961px;
+  height: 24.2298641204834px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector50 {
+  top: 0px;
+  left: 0px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector51 {
+  top: 0.5623715600902415px;
+  left: 17.498675904069984px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-group34 {
+  top: 318.73790536714546px;
+  left: 99.14577847977057px;
+  width: 34.648780822753906px;
+  height: 24.66063690185547px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-vector52 {
+  top: 0.21529805158161253px;
+  left: -0.002944276604978313px;
+  width: 16px;
+  height: 24px;
+  position: absolute;
+}
+.citasmedicas-vector53 {
+  top: 0.2418327012659347px;
+  left: 17.683837620242798px;
+  width: 17px;
+  height: 25px;
+  position: absolute;
+}
+.citasmedicas-ellipse18 {
+  top: 306.0860103045228px;
+  left: 95.0804787748516px;
+  width: 44px;
+  height: 53px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(232, 26, 63, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.citasmedicas-exporttocodeerrorsdeletemeanytime {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 114.35234832763672px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.citasmedicas-text08 {
+  top: 31px;
+  left: 51px;
+  color: var(--dl-color-default-primary);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Pacifico;
+  font-weight: 400;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.citasmedicas-text10 {
+  top: 43px;
+  left: 477px;
+  color: var(--dl-color-default-text);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.citasmedicas-text12 {
+  top: 43px;
+  left: 640px;
+  color: var(--dl-color-default-text);
+  width: 186px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.citasmedicas-text14 {
+  top: 43px;
+  left: 901px;
+  color: var(--dl-color-default-text);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.citasmedicas-text16 {
+  top: 43px;
+  left: 1106px;
+  color: var(--dl-color-default-text);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: 150%;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.citasmedicas-group17 {
+  top: 366px;
+  left: 839px;
+  width: 464px;
+  height: 146px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-text18 {
+  color: rgba(68, 44, 46, 0.5);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  align-self: auto;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-group13 {
+  top: 57.63152313232422px;
+  left: 9.094947017729282e-13px;
+  width: 464px;
+  height: 30.736841201782227px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-text20 {
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-text22 {
+  top: 0.000051673934649443254px;
+  left: 103.11100006103516px;
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-text24 {
+  top: 0.000051673934649443254px;
+  left: 206.2220001220703px;
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-text26 {
+  top: 0.000051673934649443254px;
+  left: 309.33349609375px;
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-text28 {
+  top: 0.000051673934649443254px;
+  left: 412.4444885253906px;
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-group14 {
+  top: 115.26315307617188px;
+  left: 9.094947017729282e-13px;
+  width: 464px;
+  height: 30.736841201782227px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.citasmedicas-text30 {
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-text32 {
+  top: -0.00003145369919366203px;
+  left: 103.11100006103516px;
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-text34 {
+  top: -0.00003145369919366203px;
+  left: 206.2220001220703px;
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-text36 {
+  top: -0.00003145369919366203px;
+  left: 309.33349609375px;
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.citasmedicas-text38 {
+  top: -0.00003145369919366203px;
+  left: 412.4444885253906px;
+  color: rgba(68, 44, 46, 1);
+  width: 52px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

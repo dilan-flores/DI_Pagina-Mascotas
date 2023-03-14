@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="english">
+  <head>
+    <title>Citas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+    <style data-tag="reset-style-sheet">
+      html {  line-height: 1.15;}body {  margin: 0;}* {  box-sizing: border-box;  border-width: 0;  border-style: solid;}p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption {  margin: 0;  padding: 0;}button {  background-color: transparent;}button,input,optgroup,select,textarea {  font-family: inherit;  font-size: 100%;  line-height: 1.15;  margin: 0;}button,select {  text-transform: none;}button,[type="button"],[type="reset"],[type="submit"] {  --webkit-appearance: button;}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner {  border-style: none;  padding: 0;}button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus {  outline: 1px dotted ButtonText;}a {  color: inherit;  text-decoration: inherit;}input {  padding: 2px 4px;}img {  display: block;}html { scroll-behavior: smooth  }
+    </style>
+    <style data-tag="default-style-sheet">
+      
+      html {
+        font-family: Inter;
+        font-size: 16px;
+      }
+
+      body {
+        font-weight: 400;
+        font-style:normal;
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: normal;
+        line-height: 1.15;
+        color: var(--dl-color-gray-black);
+        background-color: var(--dl-color-gray-white);
+
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap"
+      data-tag="font"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Pacifico:wght@400&amp;display=swap"
+      data-tag="font"
+    />
+    <link rel="stylesheet" href="./style_citas.css" />
+  </head>
+  <body>
+    <div>
+      <link href="./citasmedicas.css" rel="stylesheet" />
+
+      <div class="citasmedicas-container">
+        <div class="citasmedicas-citasmedicas">
+          <div class="citasmedicas-group2189">
+            <span class="citasmedicas-text"><span>Agenda tu cita</span></span>
+            <img
+              src="Vectore_citas/rectangle543971-ewn6-600w.png"
+              alt="Rectangle543971"
+              class="citasmedicas-rectangle54"
+            />
+            <span class="citasmedicas-text02"><span>Notes:</span></span>
+            <div onclick="mostrar()" class="citasmedicas-confirmyourappoitment-button"></div>
+            <div class="citasmedicas-confirmyourappoitment-button1"></div>
+            <span class="citasmedicas-text04"><span>CONFIRMAR CITA</span></span>
+            <span class="citasmedicas-text06">
+              <span>Selecionar Fecha</span>
+            </span>
+            <div class="citasmedicas-group132">
+              <img
+                src="Vectore_citas/line323981-psmt.svg"
+                alt="Line323981"
+                class="citasmedicas-line32"
+              />
+              <div>
+                <div class="citasmedicas-group">
+                  <img
+                    src="Vectore_citas/vector3981-8hh.svg"
+                    alt="Vector3981"
+                    class="citasmedicas-vector"
+                  />
+                </div>
+                <div class="citasmedicas-group01">
+                  <img
+                    src="Vectore_citas/vector3981-xbdw.svg"
+                    alt="Vector3981"
+                    class="citasmedicas-vector01"
+                  />
+                </div>
+                <div class="citasmedicas-group02">
+                  <img
+                    src="Vectore_citas/vector3981-jfja.svg"
+                    alt="Vector3981"
+                    class="citasmedicas-vector02"
+                  />
+                </div>
+                <div class="citasmedicas-group03">
+                  <img
+                    src="Vectore_citas/vector3981-xbxpi.svg"
+                    alt="Vector3981"
+                    class="citasmedicas-vector03"
+                  />
+                </div>
+                <div class="citasmedicas-group04">
+                  <img
+                    src="Vectore_citas/vector3981-9rgl.svg"
+                    alt="Vector3981"
+                    class="citasmedicas-vector04"
+                  />
+                </div>
+                <div class="citasmedicas-group05">
+                  <img
+                    src="Vectore_citas/vector3981-yvz8.svg"
+                    alt="Vector3981"
+                    class="citasmedicas-vector05"
+                  />
+                </div>
+                <div class="citasmedicas-group06">
+                  <img
+                    src="Vectore_citas/vector3981-nk6.svg"
+                    alt="Vector3981"
+                    class="citasmedicas-vector06"
+                  />
+                </div>
+              </div>
+              <div class="citasmedicas-group07">
+                <img
+                  src="Vectore_citas/vector3981-1rq.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector07"
+                />
+              </div>
+              <div class="citasmedicas-group08">
+                <img
+                  src="Vectore_citas/vector3981-0zjh.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector08"
+                />
+              </div>
+              <div class="citasmedicas-group09">
+                <img
+                  src="Vectore_citas/vector3981-pfxr.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector09"
+                />
+              </div>
+              <div class="citasmedicas-group10">
+                <img
+                  src="Vectore_citas/vector3981-6cd.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector10"
+                />
+              </div>
+              <div class="citasmedicas-group11">
+                <img
+                  src="Vectore_citas/vector3981-r0tm.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector11"
+                />
+              </div>
+              <div class="citasmedicas-group12">
+                <img
+                  src="Vectore_citas/vector3981-6ikg.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector12"
+                />
+              </div>
+              <div>
+                <img
+                  src="Vectore_citas/vector3981-bg5.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector13"
+                />
+              </div>
+              <div>
+                <img
+                  src="Vectore_citas/vector3981-yzbo.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector14"
+                />
+              </div>
+              <div class="citasmedicas-group15">
+                <img
+                  src="Vectore_citas/vector3981-7kdp.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector15"
+                />
+              </div>
+              <div class="citasmedicas-group16">
+                <img
+                  src="Vectore_citas/vector3981-o8mw.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector16"
+                />
+                <img
+                  src="Vectore_citas/vector3981-2452.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector17"
+                />
+              </div>
+              <div>
+                <img
+                  src="Vectore_citas/vector3981-7pve.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector18"
+                />
+                <img
+                  src="Vectore_citas/vector3981-ou0j.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector19"
+                />
+              </div>
+              <div class="citasmedicas-group18">
+                <img
+                  src="Vectore_citas/vector3981-m2ll.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector20"
+                />
+                <img
+                  src="Vectore_citas/vector3981-860r.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector21"
+                />
+              </div>
+              <div class="citasmedicas-group19">
+                <img
+                  src="Vectore_citas/vector3981-17os.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector22"
+                />
+                <img
+                  src="Vectore_citas/vector3981-cs3.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector23"
+                />
+              </div>
+              <div class="citasmedicas-group20">
+                <img
+                  src="Vectore_citas/vector3981-jfa6.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector24"
+                />
+                <img
+                  src="Vectore_citas/vector3981-yrko.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector25"
+                />
+              </div>
+              <div class="citasmedicas-group21">
+                <img
+                  src="Vectore_citas/vector3981-2tx.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector26"
+                />
+                <img
+                  src="Vectore_citas/vector3981-71jk.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector27"
+                />
+              </div>
+              <div class="citasmedicas-group22">
+                <img
+                  src="Vectore_citas/vector3981-8jp.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector28"
+                />
+                <img
+                  src="Vectore_citas/vector3981-onvd.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector29"
+                />
+              </div>
+              <div class="citasmedicas-group23">
+                <img
+                  src="Vectore_citas/vector3981-mus.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector30"
+                />
+                <img
+                  src="Vectore_citas/vector3981-yztj.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector31"
+                />
+              </div>
+              <div class="citasmedicas-group24">
+                <img
+                  src="Vectore_citas/vector3981-3prw.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector32"
+                />
+                <img
+                  src="Vectore_citas/vector3981-z88.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector33"
+                />
+              </div>
+              <div class="citasmedicas-group25">
+                <img
+                  src="Vectore_citas/vector3981-45v.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector34"
+                />
+                <img
+                  src="Vectore_citas/vector3981-i7mi.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector35"
+                />
+              </div>
+              <div class="citasmedicas-group26">
+                <img
+                  src="Vectore_citas/vector3981-ymr.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector36"
+                />
+                <img
+                  src="Vectore_citas/vector3981-hxvb.svg"
+                  alt="Vector3981"
+                  class="citasmedicas-vector37"
+                />
+              </div>
+              <div class="citasmedicas-group27">
+                <img
+                  src="Vectore_citas/vector3982-iuqx.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector38"
+                />
+                <img
+                  src="Vectore_citas/vector3982-hli9.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector39"
+                />
+              </div>
+              <div class="citasmedicas-group28">
+                <img
+                  src="Vectore_citas/vector3982-jw6c.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector40"
+                />
+                <img
+                  src="Vectore_citas/vector3982-hq7.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector41"
+                />
+              </div>
+              <div class="citasmedicas-group29">
+                <img
+                  src="Vectore_citas/vector3982-u8l.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector42"
+                />
+                <img
+                  src="Vectore_citas/vector3982-iypo.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector43"
+                />
+              </div>
+              <div class="citasmedicas-group30">
+                <img
+                  src="Vectore_citas/vector3982-m7jm.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector44"
+                />
+                <img
+                  src="Vectore_citas/vector3982-2v5t.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector45"
+                />
+              </div>
+              <div class="citasmedicas-group31">
+                <img
+                  src="Vectore_citas/vector3982-n2qt.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector46"
+                />
+                <img
+                  src="Vectore_citas/vector3982-p8h4.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector47"
+                />
+              </div>
+              <div class="citasmedicas-group32">
+                <img
+                  src="Vectore_citas/vector3982-qhqm.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector48"
+                />
+                <img
+                  src="Vectore_citas/vector3982-5hno.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector49"
+                />
+              </div>
+              <div class="citasmedicas-group33">
+                <img
+                  src="Vectore_citas/vector3982-zhes.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector50"
+                />
+                <img
+                  src="Vectore_citas/vector3982-6g5f.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector51"
+                />
+              </div>
+              <div class="citasmedicas-group34">
+                <img
+                  src="Vectore_citas/vector3982-kwwb.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector52"
+                />
+                <img
+                  src="Vectore_citas/vector3982-093.svg"
+                  alt="Vector3982"
+                  class="citasmedicas-vector53"
+                />
+              </div>
+              <img
+                src="Vectore_citas/ellipse183982-xxe-200h.png"
+                alt="Ellipse183982"
+                class="citasmedicas-ellipse18"
+              />
+            </div>
+            <div class="citasmedicas-exporttocodeerrorsdeletemeanytime">
+              <span class="citasmedicas-text08"><span><a href="../index.html">PatitasDog</a></span></span>
+              <span class="citasmedicas-text10"><span><a href="#">Citas</a></span></span>
+              <span class="citasmedicas-text12"><span><a href="../medicamento.html">Medicamentos</a></span></span>
+              <span class="citasmedicas-text14"><span><a href="../alimento.html">Alimentos</a></span></span>
+              <span class="citasmedicas-text16">
+                <span><a href="#">Recomendaciones</a></span>
+              </span>
+            </div>
+          </div>
+          <div class="citasmedicas-group17">
+            <span class="citasmedicas-text18"><span>02/28/2022</span></span>
+            <div class="citasmedicas-group13">
+              <span class="citasmedicas-text20"><span>09:00</span></span>
+              <span class="citasmedicas-text22"><span>09:30</span></span>
+              <span class="citasmedicas-text24"><span>10:15</span></span>
+              <span class="citasmedicas-text26"><span>12:15</span></span>
+              <span class="citasmedicas-text28"><span>12:15</span></span>
+            </div>
+            <div class="citasmedicas-group14">
+              <span class="citasmedicas-text30"><span>01:00</span></span>
+              <span class="citasmedicas-text32"><span>02:30</span></span>
+              <span class="citasmedicas-text34"><span>03:15</span></span>
+              <span class="citasmedicas-text36"><span>04:00</span></span>
+              <span class="citasmedicas-text38"><span>04:30</span></span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="app_agenda_tucita.js"></script>
+  </body>
+</html>
